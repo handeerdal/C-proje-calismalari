@@ -4,8 +4,7 @@
 2-Dizinin ortalamasını bul
 3-Dizinin ortalamasından büyük olan elemanları göster
 4-Dizinin elemanlarını başka bir diziye tersten yerleştir
-5-Dizinin en küçük ve en büyük elemanını bul
-6-Dizi elemanlarını küçükten büyüğe doğru sıralayarak aynı diziyi tekrardan oluştur*/
+5-Dizinin en küçük ve en büyük elemanını bul*/
 
 #include <stdio.h>
 
@@ -79,10 +78,7 @@ int main(int argc, const char * argv[]) {
             }
             printf("En büyük eleman=%d\nEn kücük eleman=%d\n",max,min);
         }
-        else if (islemno==6)
-        {
-            
-        }
+       
         
     }while(islemno!=-1);
    
