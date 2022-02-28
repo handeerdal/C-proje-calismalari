@@ -23,7 +23,7 @@ int main(int argc, const char * argv[]) {
     }
     else
     {
-        printf("Palindrom olsa söylerdim knk");
+        printf("Palindrom sayı değil");
     }
     
     
